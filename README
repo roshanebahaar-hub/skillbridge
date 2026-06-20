@@ -1,0 +1,23 @@
+# 🚀 SkillBridge | AI Career Intelligence Tool
+
+SkillBridge is a high-end, AI-powered career roadmap generator specifically designed for the Indian job market. It takes a user's current profile (education, skills, and city) and uses Google Gemini AI to provide a brutally honest employability score and a step-by-step "Bridge Path" to their dream job.
+
+## ✨ Features
+- **🤖 AI-Powered Analysis:** Uses Google Gemini 1.5 Flash for deep, personalized career insights.
+- **🇮🇳 India-Centric:** Specifically tuned for Indian city tiers, local platforms (Naukri, Internshala, etc.), and salary ranges.
+- **🌐 Bilingual Support:** Fully functional in both **English** and **Hindi**.
+- **📈 Visual Progress:** Interactive skill bars and a step-by-step career bridge.
+- **📱 Fully Responsive:** Works perfectly on desktops, tablets, and mobile phones.
+
+## 🛠️ Tech Stack
+- **Framework:** [Next.js](https://nextjs.org/) (React)
+- **Styling:** Custom CSS (Dark Theme)
+- **AI Engine:** [Google Gemini AI](https://aistudio.google.com/)
+- **Deployment:** [Vercel](https://vercel.com/)
+
+## 🚀 Getting Started
+
+### 1. Clone the project
+```bash
+git clone https://github.com/YOUR_USERNAME/my-career-tool.git
+cd my-career-tool
