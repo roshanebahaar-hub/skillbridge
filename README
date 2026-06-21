@@ -19,5 +19,5 @@ SkillBridge is a high-end, AI-powered career roadmap generator specifically desi
 
 ### 1. Clone the project
 ```bash
-git clone https://github.com/YOUR_USERNAME/my-career-tool.git
-cd my-career-tool
+git clone https://github.com/YOUR_USERNAME/skill-bridge.git
+cd skill-bridge
